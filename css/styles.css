@@ -104,6 +104,7 @@ body {
   text-transform: uppercase;
   color: #4d5ae5;
   margin-right: 76px;
+  display: flex;
 }
 .logo:hover,
 .logo:focus {
@@ -234,6 +235,7 @@ body {
 .section-team {
   padding-top: 120px;
   padding-bottom: 120px;
+  background-color: #f4f4fd;
 }
 
 /* =====================/ SECTION 4===================== */
@@ -304,6 +306,7 @@ body {
 
 .navigation-page {
   padding-bottom: 120px;
+  padding-top: 96px;
 }
 .border-color {
   border: 1px solid #e7e9fc;
@@ -315,7 +318,6 @@ body {
   justify-content: center;
   gap: 24px;
   margin-bottom: 72px;
-  padding-top: 96px;
 }
 
 .content-list-1 {
